@@ -36,6 +36,8 @@ wordcount(filename)
 ```
 
 ### OUTPUT:
+<img width="569" alt="word1" src="https://github.com/23005672/Word-count/assets/138971519/bf8ac0e1-9e91-4cbc-b12e-9061f9c97d73">
+<img width="548" alt="word2" src="https://github.com/23005672/Word-count/assets/138971519/d4c05b9b-175f-4d9d-949c-3b2ddadac881">
 
 
 
